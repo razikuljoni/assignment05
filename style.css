@@ -1,0 +1,15 @@
+
+.search-bar{
+    margin-top: 20px;
+}
+input{
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    width: 400px;
+}
+span.search-btn{
+    color: white;
+    background-color: #3B2D64;
+    border-radius: 10px;
+}
